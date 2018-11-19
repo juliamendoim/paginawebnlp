@@ -3,6 +3,9 @@
   "description": "Gatsby Starter - Dimension V2",
   "version": "1.0.0",
   "author": "Hunter Chang",
+  "engines": {
+   "node":"10.13.0"
+  },
   "dependencies": {
     "@aws-amplify/cli": "^0.1.34",
     "gatsby": "^2.0.0",
